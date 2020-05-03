@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/vehsoriano/verrellsoriano/static/css/main.695e43de.chunk.css",
-    "main.js": "/vehsoriano/verrellsoriano/static/js/main.1d09a040.chunk.js",
-    "main.js.map": "/vehsoriano/verrellsoriano/static/js/main.1d09a040.chunk.js.map",
-    "runtime-main.js": "/vehsoriano/verrellsoriano/static/js/runtime-main.67beed9c.js",
-    "runtime-main.js.map": "/vehsoriano/verrellsoriano/static/js/runtime-main.67beed9c.js.map",
-    "static/js/2.36458812.chunk.js": "/vehsoriano/verrellsoriano/static/js/2.36458812.chunk.js",
-    "static/js/2.36458812.chunk.js.map": "/vehsoriano/verrellsoriano/static/js/2.36458812.chunk.js.map",
-    "index.html": "/vehsoriano/verrellsoriano/index.html",
-    "precache-manifest.bb589adca888d9dfbdd8eb1b3e5db4eb.js": "/vehsoriano/verrellsoriano/precache-manifest.bb589adca888d9dfbdd8eb1b3e5db4eb.js",
-    "service-worker.js": "/vehsoriano/verrellsoriano/service-worker.js",
-    "static/css/main.695e43de.chunk.css.map": "/vehsoriano/verrellsoriano/static/css/main.695e43de.chunk.css.map",
-    "static/js/2.36458812.chunk.js.LICENSE.txt": "/vehsoriano/verrellsoriano/static/js/2.36458812.chunk.js.LICENSE.txt"
+    "main.css": "/verrellsoriano/static/css/main.695e43de.chunk.css",
+    "main.js": "/verrellsoriano/static/js/main.c9da8c99.chunk.js",
+    "main.js.map": "/verrellsoriano/static/js/main.c9da8c99.chunk.js.map",
+    "runtime-main.js": "/verrellsoriano/static/js/runtime-main.a6a863b2.js",
+    "runtime-main.js.map": "/verrellsoriano/static/js/runtime-main.a6a863b2.js.map",
+    "static/js/2.36458812.chunk.js": "/verrellsoriano/static/js/2.36458812.chunk.js",
+    "static/js/2.36458812.chunk.js.map": "/verrellsoriano/static/js/2.36458812.chunk.js.map",
+    "index.html": "/verrellsoriano/index.html",
+    "precache-manifest.b0f6657dd60b4569c548f9308a975028.js": "/verrellsoriano/precache-manifest.b0f6657dd60b4569c548f9308a975028.js",
+    "service-worker.js": "/verrellsoriano/service-worker.js",
+    "static/css/main.695e43de.chunk.css.map": "/verrellsoriano/static/css/main.695e43de.chunk.css.map",
+    "static/js/2.36458812.chunk.js.LICENSE.txt": "/verrellsoriano/static/js/2.36458812.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.67beed9c.js",
+    "static/js/runtime-main.a6a863b2.js",
     "static/js/2.36458812.chunk.js",
     "static/css/main.695e43de.chunk.css",
-    "static/js/main.1d09a040.chunk.js"
+    "static/js/main.c9da8c99.chunk.js"
   ]
 }
