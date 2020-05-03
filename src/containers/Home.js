@@ -4,7 +4,9 @@ import { Link } from 'react-router-dom';
 const Home = () => {
   return (
     <div className="home">
-      Home
+      <div className="text-holder">
+        VERRELL SORIANO
+      </div>
     </div>
   );
 };
