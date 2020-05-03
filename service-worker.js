@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vehsoriano/verrellsoriano/precache-manifest.e546af0c10df7f1daf788e8ea09ca2a2.js"
+  "/vehsoriano/verrellsoriano/precache-manifest.bb589adca888d9dfbdd8eb1b3e5db4eb.js"
 );
 
 self.addEventListener('message', (event) => {
